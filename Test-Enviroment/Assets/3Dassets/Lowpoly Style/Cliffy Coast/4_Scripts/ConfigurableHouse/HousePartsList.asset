@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9be50706027217f46a8bd1079ffabe1a, type: 3}
+  m_Name: HousePartsList
+  m_EditorClassIdentifier: 
+  House1_Exteriour: {fileID: 1765941259146816, guid: ef696e7686ced3c41a4937c6ab4be015,
+    type: 3}
+  House1_Exteriour_Only: {fileID: 1016922869794464, guid: 50180d6f7cd566947b71c28f07e9b0eb,
+    type: 3}
+  House1_Interour: {fileID: 1608144115458548, guid: cfd0f6a8885b89b419a79c7e08c4f4b7,
+    type: 3}
+  House2_Exteriour: {fileID: 1905864666516636, guid: f350c781f0e75bb499dbaf03df1d3894,
+    type: 3}
+  House2_Exteriour_Only: {fileID: 1786130112901450, guid: c4eb0e9344d9863409577751eb2018b5,
+    type: 3}
+  House2_Interour: {fileID: 1799385890157236, guid: 62ed1924f584d38418a98e5eeb2661c0,
+    type: 3}
+  House3_Exteriour: {fileID: 1952670800869608, guid: 86512e726d193f547a53b22c0b6db64c,
+    type: 3}
+  House3_Exteriour_Only: {fileID: 1862616009513870, guid: 0fd5155e32ac2ef4ea758a72e185828e,
+    type: 3}
+  House3_Interour: {fileID: 1799385890157236, guid: 62ed1924f584d38418a98e5eeb2661c0,
+    type: 3}
+  House1_Roof_Wood: {fileID: 1351393164462102, guid: 08fffdd424186a040bd8bb8fa2cfc21a,
+    type: 3}
+  House1_Roof_Red: {fileID: 1926572139847572, guid: 236922628d37b6c44ad481ebaa29001a,
+    type: 3}
+  House1_Roof_Blue: {fileID: 1262920790281926, guid: fce5a08bde3b86047bbb9e1ede55532e,
+    type: 3}
+  House1_Roof_Grey: {fileID: 1649631878956316, guid: 9f775bd6f5eaa124a9490c8b580a5aa0,
+    type: 3}
+  House1_Roof_Planks_Wood: {fileID: 1037026150133044, guid: 7820c12d134e61c4395392f3d5b25d86,
+    type: 3}
+  House1_Roof_Planks_Red: {fileID: 8500398347462973772, guid: 98ff2a7ce054ef646b7b84c50c1fef25,
+    type: 3}
+  House1_Roof_Planks_Blue: {fileID: 5395408841960945796, guid: 5ed2ca9a2ed591945a6bbe94742b9688,
+    type: 3}
+  House1_Roof_Planks_Grey: {fileID: 2416813815654993547, guid: c92efc6a52f987e4281447ac3ab83285,
+    type: 3}
+  Small_Roof_Top_Wood: {fileID: 1033677401237028, guid: f2f6cab3d3773ce409114bf9a14e8003,
+    type: 3}
+  Small_Roof_Top_Red: {fileID: 1972824145843384, guid: 87d4abe5b7e44574b83b6949a15d6b6f,
+    type: 3}
+  Small_Roof_Top_Blue: {fileID: 1331248178022266, guid: ab7df20720c887a42b0451b9195725e1,
+    type: 3}
+  Small_Roof_Top_Grey: {fileID: 1751088134349586, guid: 6723c7eb8576fab43bea12bce43249df,
+    type: 3}
+  TopWindow: {fileID: 1205434478202770, guid: c676414b0d6d50043894125bf4c6bece, type: 3}
+  Door: {fileID: 1278244990243952, guid: fa0acc808afc07e41961e8996f3aebf9, type: 3}
+  Chimney: {fileID: 1679930851686758, guid: 0b18e11f74d25fb4998241f60fe359dc, type: 3}
+  PergolaLarge: {fileID: 1549243685125184, guid: 996cc8a0f165a00429f7a06ba5f60cfa,
+    type: 3}
+  PergolaSmall: {fileID: 1716760294981906, guid: 562ac472b0cf122409e1aaed2584b2e8,
+    type: 3}
+  PergolaMini: {fileID: 1975723174524248, guid: bb5b5da1ca2a5844790456b9c1d2c62c,
+    type: 3}
+  IvyBottom: {fileID: 1754279045394504, guid: 85aabda3d3fec1b45bf4dae6bb97d23d, type: 3}
+  Ivy: {fileID: 1730118655271172, guid: 80bec0ae2dcbee54a9f9cd27c915dff2, type: 3}
+  House1_Cornerstones: {fileID: 100000, guid: a509a1127bb6def4db20e56ab9bf0751, type: 3}
+  House1_WoodUnderRoof: {fileID: 100000, guid: b27f05451c30df7439e616cf102bed9f, type: 3}

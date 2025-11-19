@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b95f47d0d1e848e4bb9a6252bbf6e4a5, type: 3}
+  m_Name: DLG_Shopkeeper_Intro
+  m_EditorClassIdentifier: 
+  characterName: "\u8001\u677F"
+  nameColor: {r: 1, g: 0.47557485, b: 0, a: 1}
+  portrait: {fileID: 21300000, guid: f25d29b9583388b42bcd5da7bded577c, type: 3}
+  dialogueOffset: {x: 0, y: 2, z: 0}
+  interactionRadius: 2
+  defaultDialogue: {fileID: 11400000, guid: fd1bc0194c444754a9a791f831555586, type: 2}
+  isQuestGiver: 0
+  inventoryItems: []
